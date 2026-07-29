@@ -1,6 +1,6 @@
 # California Housing ML Regression Project
 
-**Author:** Your Name  
+**Author:** Mohammad Hasibur Rahman  
 **Repository Name:** california-housing-ml-[yourfirstname]-[yourlastname]
 
 An end-to-end machine learning project predicting California census block median house values using geographic, census, and housing characteristics.

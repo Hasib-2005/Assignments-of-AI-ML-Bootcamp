@@ -1,6 +1,6 @@
 # California Housing Price Prediction — Executive Project Summary
 
-**Author:** Your Name  
+**Author:** Mohammad Hasibur Rahman  
 **Dataset:** 1990 California Census Dataset (20,640 records)  
 **Task:** Continuous Regression Modeling for Housing Valuation  
 
